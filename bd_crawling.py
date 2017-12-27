@@ -1,4 +1,7 @@
-#coding=utf-8
+# coding=utf-8
+# 百度/360搜索关键词提交--修改params参数提交关键词
+# 百度的关键词接口：http://www.baidu.com/s?wd=keyword
+# 360的关键词接口：http://www.so.com/s?q=keyword
 
 import requests
 
