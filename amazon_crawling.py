@@ -1,4 +1,5 @@
 #coding=utf-8
+#亚马逊商品的爬取--通过修改headers字段，模拟浏览器向网站发起请求
 
 import requests
 
